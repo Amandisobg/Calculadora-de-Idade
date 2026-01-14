@@ -20,13 +20,13 @@ O projeto simula uma aplicação real voltada ao usuário final, priorizando cla
 
 🌐 Deploy da Aplicação
 
-🔗 FrontEnd (produção): https://caluladora-de-idade.vercel.app/
+🔗 FrontEnd (produção): calculadora-de-idade-h315phiu6-amandisobgs-projects.vercel.app/
 
 ---
 
 📦 Repositório do Projeto
 
-🔗 GitHub: *(github.com/Amandisobg/Caluladora-de-Idade)*
+🔗 GitHub: *(github.com/Amandisobg/Calculadora-de-Idade)*
 
 ---
 
