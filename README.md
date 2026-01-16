@@ -39,30 +39,44 @@ Layout responsivo
 Hooks do React:
 useState
 
-🎯 Funcionalidades
+##🎯 Funcionalidades##
 
 ✅ Entrada do nome do usuário
+
 ✅ Entrada do ano de nascimento
+
 ✅ Seleção se o usuário já fez aniversário no ano atual
+
 ✅ Cálculo automático da idade
+
 ✅ Validação dos dados inseridos
+
 ✅ Exibição do resultado com destaque e animação
 
-📋 Requisitos Funcionais (RF)
+##📋 Requisitos Funcionais (RF)##
 
 RF01 — Permitir que o usuário informe seu nome
+
 RF02 — Permitir que o usuário informe o ano de nascimento
+
 RF03 — Permitir selecionar se já realizou aniversário no ano atual
+
 RF04 — Calcular automaticamente a idade
+
 RF05 — Exibir o resultado de forma clara e destacada
+
 RF06 — Exibir mensagem de erro para dados inválidos
 
-⚙️ Requisitos Não Funcionais (RNF)
+##⚙️ Requisitos Não Funcionais (RNF)##
 
 RNF01 — Interface responsiva (desktop e mobile)
+
 RNF02 — Feedback visual ao usuário por meio de animações
+
 RNF03 — Código organizado seguindo boas práticas do React
+
 RNF04 — Interface intuitiva e de fácil utilização
+
 RNF05 — Design moderno utilizando Glassmorphism
 
 📚 Aprendizados
