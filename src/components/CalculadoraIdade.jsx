@@ -52,7 +52,7 @@ export default function CalculadoraIdade() {
         value={fezAniversario}
         onChange={(e) => setFezAniversario(e.target.value)}
       >
-        <option value="">Já fez aniversário?</option>
+        <option value="">Já fez aniversário este anos?</option>
         <option value="sim">Sim</option>
         <option value="nao">Não</option>
       </select>
