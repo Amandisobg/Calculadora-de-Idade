@@ -23,7 +23,7 @@ https://github.com/Amandisobg/Calculadora-de-Idade
 🧭 Visão Geral
 
 Nome: Calculadora de Idade
-Domínio: Utilitário / Educação
+Domínio: Utilitário / Educação,
 Objetivo: Desenvolver uma aplicação Front-end capaz de calcular a idade do usuário de forma simples e precisa, com validação de dados e feedback visual.
 Identidade Visual: Interface moderna com efeito Glassmorphism, fundo em gradiente, card centralizado com cantos arredondados e animações suaves.
 
@@ -39,6 +39,7 @@ Layout responsivo
 Hooks do React:
 useState
 
+
 ##🎯 Funcionalidades##
 
 ✅ Entrada do nome do usuário
@@ -52,6 +53,8 @@ useState
 ✅ Validação dos dados inseridos
 
 ✅ Exibição do resultado com destaque e animação
+
+
 
 ##📋 Requisitos Funcionais (RF)##
 
@@ -67,6 +70,8 @@ RF05 — Exibir o resultado de forma clara e destacada
 
 RF06 — Exibir mensagem de erro para dados inválidos
 
+
+
 ##⚙️ Requisitos Não Funcionais (RNF)##
 
 RNF01 — Interface responsiva (desktop e mobile)
@@ -78,6 +83,8 @@ RNF03 — Código organizado seguindo boas práticas do React
 RNF04 — Interface intuitiva e de fácil utilização
 
 RNF05 — Design moderno utilizando Glassmorphism
+
+
 
 📚 Aprendizados
 
